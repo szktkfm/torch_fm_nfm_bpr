@@ -45,7 +45,8 @@ class FM(nn.Module):
         return torch.mean(out)
     
     
-    
+# 推薦にしか使えない
+# つまり特徴量のうち非ゼロ要素(1)が２つ
 class NFM(nn.Module):
 
     def __init__(self, embedding_dim, hidden_dim, user_size, item_size):
