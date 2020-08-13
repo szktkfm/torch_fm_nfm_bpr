@@ -1,1 +1,1 @@
-# pytorchでfm, nfm, bprのモデルだけ
+# pytorchでfm, nfm, bpr
