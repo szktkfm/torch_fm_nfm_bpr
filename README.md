@@ -1,1 +1,1 @@
-# pytorchでfm, nfm, bpr
+# fm, nfm, bpr
